@@ -32500,7 +32500,7 @@
                   }),
                   (0, Wo.jsx)('div', {
                     className: 'hero-bg parallax',
-                    style: { backgroundImage: 'url("images/intro-bg.jpg")' },
+                    style: { backgroundImage: 'url("images/intro-bg.JPG")' },
                   }),
                   (0, Wo.jsxs)('div', {
                     className: 'hero-content section d-flex min-vh-100',
